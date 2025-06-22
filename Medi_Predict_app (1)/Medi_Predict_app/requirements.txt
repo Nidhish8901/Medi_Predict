@@ -1,34 +1,6 @@
-# Core app framework
 streamlit
-
-# Data handling
 pandas
 numpy
-
-# Visualization
 plotly
-matplotlib
-
-# PDF handling
-PyMuPDF  # fitz
-PyPDF2
-
-# Text & NLP
-re
-wordcloud
-
-# Forecasting & stats
-prophet
-statsmodels
-
-# Machine learning
-scikit-learn
-
-# AI & Transformers
+streamlit-geolocation
 transformers
-torch
-accelerate
-sentencepiece
-
-# Excel support
-openpyxl
