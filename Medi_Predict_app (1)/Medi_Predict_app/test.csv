@@ -1,0 +1,269 @@
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,Savings,Type,Uses,Side Effects
+1,TAB GLIMDA,1 mg,Glimepiride 1mg,41.44,12,29.44,71.04,A- Anti Diabetic,Type 2 diabetes – stimulates insulin release,"Low blood sugar, weight gain, headache, nausea, dizziness"
+2,TAB GLIMDA,2 mg,Glimepiride 2mg,48.45,17,31.45,64.91,A- Anti Diabetic,Type 2 diabetes – stimulates insulin release,"Low blood sugar, weight gain, headache, nausea, dizziness"
+,TAB GLIMPEVAN,2 mg,Glimepiride 2mg,57.9,17,40.9,70.64,A- Anti Diabetic,Type 2 diabetes (glimepiride variant),"Hypoglycemia, dizziness, nausea, headache"
+,TAB  GLIMP,2 mg,Glimepiride 2mg,,17,,,A- Anti Diabetic,Type 2 diabetes (glimepiride),"Low blood sugar, dizziness, GI upset"
+,TAB GLIMIWEL,2 mg,Glimepiride 2mg,56.2,17,39.2,69.75,A- Anti Diabetic,Type 2 diabetes (glimepiride),"Low blood sugar, weight gain, headache"
+3,GLIMICUT M1 FORTE,1 mg,Glimepiride 1mg + Metformin 1000mg SR,77.6,37,40.6,52.32,A- Anti Diabetic,Glimepiride + metformin combo,"Hypoglycemia, GI upset, B12 deficiency"
+,TAB GLIDUM MF,1 mg,Glimepiride 1mg + Metformin 1000mg SR,,37,,,A- Anti Diabetic,Glimepiride + metformin combo,"Hypoglycemia, nausea, diarrhea, B12 deficiency"
+4,TAB OKAMET,500 mg,Metformin Hcl 500mg,27.6,10,17.6,63.77,A- Anti Diabetic,Metformin for type 2 diabetes,"Nausea, diarrhea, metallic taste, B12 deficiency"
+,TAB ELCEPHASE,500 mg,Metformin Hcl 500mg,22.3,10,12.3,55.16,A- Anti Diabetic,Extended-release metformin,"Less GI upset, nausea, lactic acidosis risk"
+,TAB GLYCOMET,500 mg,Metformin Hcl 500mg,20.94,10,10.94,52.24,A- Anti Diabetic,Metformin for type 2 diabetes,"GI upset, diarrhea, B12 deficiency"
+,TAB METAFIL 1000 SR,1000 mg,Metformin Hcl 1000mg,40,10,30,75,A- Anti Diabetic,Sustained-release metformin,"GI upset, metallic taste, lactic acidosis"
+,TAB ELCEPHASE,1000 mg,Metformin Hcl 1000mg,22.57,10,12.57,55.69,A- Anti Diabetic,Extended-release metformin,"Nausea, GI upset, B12 deficiency"
+5,TAB METFORD,250 mg,Metformin 250mg,16.65,9,7.65,45.95,A- Anti Diabetic,Low dose metformin,"GI upset, diarrhea, B12 deficiency"
+,TAB TESLAMET,250 mg,Metformin 250mg,18.8,9,9.8,52.13,A- Anti Diabetic,Metformin combination,"GI upset, lactic acidosis, B12 deficiency"
+6,TAB GLIMP M1 SR,1 mg,Glimepiride 1mg + Metformin 500mg SR,61.46,26,35.46,57.7,A- Anti Diabetic,Glimepiride + metformin sustained-release,"Hypoglycemia, GI upset, B12 deficiency"
+,TAB GLIMICUT M1 PR,1 mg,Glimepiride 1mg + Metformin 500mg SR,50.92,26,24.92,48.94,A- Anti Diabetic,Glimepiride + metformin prolonged-release,"Low blood sugar, nausea, diarrhea"
+7,TAB GLIMP M2 SR,2 mg,Glimepiride 2mg + Metformin 500mg SR,117,30,87,74.36,A- Anti Diabetic,Glimepiride + metformin sustained-release,"Hypoglycemia, weight gain, GI upset"
+,TAB GLIMICUT M2 PR,2 mg,Glimepiride 2mg + Metformin 500mg SR,54.89,30,24.89,45.35,A- Anti Diabetic,Glimepiride + metformin prolonged-release,"Low blood sugar, diarrhea, metallic taste"
+8,TAB TIBAN,20 mg,Teneligliptin 20 MG,163.94,52,111.94,68.28,A- Anti Diabetic,Likely DPP-4 inhibitor for type 2 diabetes,"Headache, GI upset, rare pancreatitis"
+,TAB TENGLYN,20 mg,Teneligliptin 20 MG,188.68,52,136.68,72.44,A- Anti Diabetic,Teneligliptin for type 2 diabetes,"Headache, hypoglycemia (with others), GI upset"
+,TAB TGLIP,20 mg,Teneligliptin 20 MG,248.4,52,196.4,79.07,A- Anti Diabetic,Teneligliptin for type 2 diabetes,"Headache, stomach upset, dizziness"
+,TAB TENEPLA,20 mg,Teneligliptin 20 MG,78.5,52,26.5,33.76,A- Anti Diabetic,Teneligliptin for type 2 diabetes,"Nausea, upper respiratory symptoms, fatigue"
+,TAB DEBILIPIN,20 mg,Teneligliptin 20 MG,124,52,72,58.06,A- Anti Diabetic,Likely diabetes combination,"Hypoglycemia, nausea, dizziness"
+,TAB TENEBETIC,20 mg,Teneligliptin 20 MG,124,52,72,58.06,A- Anti Diabetic,"Hypoglycemia, nausea, dizziness","Headache, GI upset, dizziness"
+9,TAB GZIDE-M,80 mg,Gliclazide 80 mg + Metformin HCI 500 mg,104.5,36,68.5,65.55,A- Anti Diabetic,Gliclazide + metformin combo,"Hypoglycemia, GI upset, B12 deficiency"
+,Gemer 1,80 mg,Gliclazide 80 mg + Metformin HCI 500 mg,,36,,,A- Anti Diabetic,Glimepiride + metformin combo,"Low blood sugar, weight gain, diarrhea"
+,GLICLAZ,80 mg,Gliclazide 80 mg + Metformin HCI 500 mg,124.88,36,88.88,71.17,A- Anti Diabetic,Gliclazide for type 2 diabetes,"Low blood sugar, weight gain, nausea, headache"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+10,TAB MALO-AT,5 mg,Amlodipine 5mg + Atenol 50 mg,65,17,48,73.85,B - Anti Hypertensive,Hypertension (Ramipril),"Dry cough, dizziness, fatigue, nausea"
+,AMLIP AT,5 mg,Amlodipine 5mg + Atenol 50 mg,87.84,17,70.84,80.65,B - Anti Hypertensive,Hypertension (Amlodipine + Atenolol),"Swelling, fatigue, dizziness, slow heart rate"
+11,TAB RAMI RACE,2.5 mg,Rampril 2.5mg,58.1,18,40.1,69.02,B - Anti Hypertensive,"Hypertension, heart failure (Ramipril)","Dry cough, dizziness, nausea"
+,TAB RAMGEE,2.5 mg,Rampril 2.5mg,54.8,18,36.8,67.15,B - Anti Hypertensive,"Hypertension, heart failure (Ramipril)","Fatigue, lightheadedness, dry cough"
+12,TAB RAMI RACE,5 mg,Rampril 5mg,91.4,24,67.4,73.74,B - Anti Hypertensive,"Hypertension, heart failure (Ramipril)","Dry cough, angioedema, dizziness"
+13,TAB TELMIWOCK-AM,40 mg,Amlodipine 5mg + Telmisartan 40 mg,74.94,35,39.94,53.3,B - Anti Hypertensive,Hypertension (Telmisartan + Amlodipine),"Swelling, dizziness, back pain"
+,TAB ZENSARTAN - AM,40 mg,Amlodipine 5mg + Telmisartan 40 mg,180,35,145,80.56,B - Anti Hypertensive,Hypertension (Telmisartan + Amlodipine),"Fatigue, dizziness, GI upset"
+14,TAB TELMIWOCK,20 mg,20 mg,39.21,38.82,0.39,0.99,B - Anti Hypertensive,Hypertension (Telmisartan),"Headache, dizziness, diarrhea"
+,TAB TELVAS,20 mg,20 mg,59.48,38.82,20.66,34.73,B - Anti Hypertensive,Hypertension (Telmisartan),"Back pain, sinusitis, fatigue"
+,TAB TELMIKIND,20 mg,20 mg,43.26,38.82,4.44,10.26,B - Anti Hypertensive,Hypertension (Telmisartan),"Dizziness, nausea, hypotension"
+,TAB TELSARTAN,20 mg,20 mg,60.6,38.82,21.78,35.94,B - Anti Hypertensive,Hypertension (Telmisartan),"Fatigue, dizziness, cough"
+,TAB TELMAVAS,20 mg,20 mg,43,38.82,4.18,9.72,B - Anti Hypertensive,Hypertension (Telmisartan),"Muscle pain, dizziness, GI upset"
+,TAB ZENSARTAN,20 mg,20 mg,24.81,38.82,-14.01,-56.47,B - Anti Hypertensive,Hypertension (Telmisartan),"Back pain, diarrhea, dizziness"
+15,TAB TELMIWOCK,40 mg,Telmisartan 40 mg,75.5,67,8.5,11.26,B - Anti Hypertensive,Hypertension (Telmisartan),"Fatigue, dizziness, hyperkalemia"
+,TAB ZENSARTAN,40 mg,Telmisartan 40 mg,75.71,67,8.71,11.5,B - Anti Hypertensive,Hypertension (Telmisartan),"GI upset, headache, fatigue"
+,TAB TELYN,40 mg,Telmisartan 40 mg,53.5,67,-13.5,-25.23,B - Anti Hypertensive,Hypertension (Telmisartan),"Lightheadedness, back pain, hypotension"
+16,TAB  TELMIWOCK - H,40 mg,Telmisartan 40mg + Hydrochlorthiazide 12.5mg,131.5,77,54.5,41.44,B - Anti Hypertensive,Hypertension (Telmisartan + Hydrochlorothiazide),"Electrolyte imbalance, dehydration, dizziness"
+,TAB TELYN - H,40 mg,Telmisartan 40mg + Hydrochlorthiazide 12.5mg,58.9,77,-18.1,-30.73,B - Anti Hypertensive,Hypertension (Telmisartan + Hydrochlorothiazide),"Frequent urination, dizziness, muscle cramps"
+,TAB ZENSARRTAN H,40 mg,Telmisartan 40mg + Hydrochlorthiazide 12.5mg,147.4,77,70.4,47.76,B - Anti Hypertensive,Hypertension (Telmisartan + Hydrochlorothiazide),"Low BP, dizziness, nausea"
+17,TAB ECOSPIRIN,75 mg,Asprin,5.49,,,100,B - Anti Hypertensive,Antiplatelet (Aspirin) for heart/stroke prevention,"GI upset, bleeding, nausea"
+18,TAB ECOSPIRIN,150 mg,Asprin,11.13,,,100,B - Anti Hypertensive,Antiplatelet (Aspirin) for heart/stroke prevention,"Stomach irritation, bleeding, ulcers"
+19,TAB CLOPICARD,75 mg,Clopidogrel Tablets IP 75 mg,111.88,74.59,37.29,33.33,B - Anti Hypertensive,Prevents clotting (Clopidogrel),"Bleeding, bruising, headache"
+,TAB CLOP,75 mg,Clopidogrel Tablets IP 75 mg,80,74.59,5.41,6.76,B - Anti Hypertensive,Prevents clotting (Clopidogrel),"GI upset, dizziness, nosebleeds"
+,TAB CLOPIZEN,75 mg,Clopidogrel Tablets IP 75 mg,122,74.59,47.41,38.86,B - Anti Hypertensive,Prevents clotting (Clopidogrel),"Bleeding risk, abdominal pain, rash"
+20,TAB AMLIP,5 mg,Amlodipine 5,28,24.97,3.03,10.82,B - Anti Hypertensive,Hypertension (Amlodipine),"Ankle swelling, dizziness, palpitations"
+,TAB ELPRESS,5 mg,Amlodipine 5,7.43,24.97,-17.54,-236.07,B - Anti Hypertensive,Hypertension (likely Enalapril or similar),"Dry cough, dizziness, rash"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+21,TAB LIPVAS,10 mg,Atorvastin 10 mg,55.32,56,-0.68,-1.23,C-Cholesterol,High cholesterol & cardiovascular disease prevention,"Headache, nausea, diarrhea, muscle/joint pain"
+,TAB  ATORVASTATIN,10 mg,Atorvastin 10 mg,,56,,,C-Cholesterol,Lower LDL cholesterol and reduce heart attack/stroke risk,"Headache, indigestion, muscle pain, insomnia"
+,TAB BIOVAS,10 mg,Atorvastin 10 mg,55.32,56,-0.68,-1.23,C-Cholesterol,High cholesterol management,"GI upset, muscle/joint pain, headache"
+,TAB ATROPLEN,10 mg,Atorvastin 10 mg,57.6,56,1.6,2.78,C-Cholesterol,Cholesterol lowering,"Muscle aches, diarrhea, headache"
+,TAB ROVATAT ,10 mg,Rosuvastatin 10 mg,337.25,150,187.25,55.52,C-Cholesterol,Cholesterol lowering,"Nausea, muscle/joint pain, diarrhea"
+,TAB ROSU HDL,10 mg,Rosuvastatin 10 mg,231.7,150,81.7,35.26,C-Cholesterol,Heart disease/stroke prevention (Rosuvastatin),"Headache, nausea, muscle aches, weakness, abdominal pain"
+,TAB CGROS,10 mg,Rosuvastatin 10 mg,123,150,-27,-21.95,C-Cholesterol,Cholesterol lowering (likely Rosuvastatin),"GI upset, muscle/joint aches, headache"
+22,TAB LIPVAS,20 mg,Atorvastin 20 mg,140.67,139,1.67,1.19,C-Cholesterol,Moderate-high cholesterol reduction,"Digestive issues, muscle pain, headache"
+23,TAB LIPVAS,40 mg,Atorvastin 40 mg,216.16,215,1.16,0.54,C-Cholesterol,High-intensity cholesterol control,"Muscle symptoms, liver enzyme elevation"
+,TAB ATODER,40 mg,Atorvastin 40 mg,130,215,-85,-65.38,C-Cholesterol,High-intensity cholesterol control,"Headache, abdominal pain, muscle aches, constipation"
+,TAB ATORLIP,40 mg,Atorvastin 40 mg,219.96,215,4.96,2.25,C-Cholesterol,High-intensity cholesterol control,"GI upset, muscle/joint pain, diarrhea, headache"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+26,TAB PREGABANYL-M,75 mg,Pregabalin 75 + Methylcobalamine 750mg,140,140,0,0,D- Neuromedicine,"Neuropathic pain, diabetic nerve pain (Pregabalin + Methylcobalamin)","Drowsiness, dizziness, weight gain, dry mouth"
+,TAB PREGALYV -M,75 mg,Pregabalin 75 + Methylcobalamine 750mg,166.98,140,26.98,16.16,D- Neuromedicine,Neuropathic pain relief (Pregabalin + Methylcobalamin),"Fatigue, blurred vision, swelling, sleepiness"
+,TAB PREGADER M,75 mg,Pregabalin 75 + Methylcobalamine 750mg,154,140,14,9.09,D- Neuromedicine,Nerve pain and B12 deficiency (Pregabalin + Methylcobalamin),"Sleepiness, unsteadiness, constipation"
+27,TAB PREGABANYL-NTM,75 mg,Pregabalin 75mg SR + Methylcobalamine,195,,,100,D- Neuromedicine,"Chronic nerve pain, anxiety (Pregabalin + Nortriptyline + Methylcobalamin)","Dry mouth, drowsiness, constipation, weight gain"
+28,PREGABANYL-M 75 SR,75 mg,Methylcobalamine 1500mcg + Pregabalin 75,145,142,3,2.07,D- Neuromedicine,Neuropathic pain (Sustained release formulation),"Dizziness, sedation, peripheral edema"
+,PREGADER NTM,75 mg,Methylcobalamine 1500mcg + Pregabalin 75,198,142,56,28.28,D- Neuromedicine,Nerve pain and mood regulation (Pregabalin + Nortriptyline + Methylcobalamin),"Drowsiness, constipation, blurred vision"
+,TAB MECOLAZ 1500,75 mg,Methylcobalamine 1500mcg + Pregabalin 75,93.72,142,-48.28,-51.52,D- Neuromedicine,"Vitamin B12 deficiency, supports nerve health (Methylcobalamin)","Mild diarrhea, itching, skin rash"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+32,LULIFORD CREAM 10 mg,0.01,Luliconazole 1%,150,36,114,76,E - Itching & Skin Allergy,Fungal skin infections (Luliconazole),"Burning, redness, itching at application site"
+,LULIFRESH CREAM 10 mg,0.01,Luliconazole 1%,130,36,94,72.31,E - Itching & Skin Allergy,Fungal infections (Luliconazole),"Skin irritation, peeling, redness"
+,LULIDER 10g,0.01,Luliconazole 1%,85,36,49,57.65,E - Itching & Skin Allergy,"Ringworm, athlete’s foot (Luliconazole)","Local irritation, itching, stinging"
+33,DERMIFORD CREAM,"Clobetasol,Neomycin ,Ketoconazole","Clobetasol,Neomycin ,Ketoconazole",99,,,100,E - Itching & Skin Allergy,Fungal infections (Clotrimazole + Beclomethasone),"Skin thinning, burning, itching"
+,KT 5 DERM,"Clobetasol,Neomycin ,Ketoconazole","Clobetasol,Neomycin ,Ketoconazole",126.5,,,100,E - Itching & Skin Allergy,Antifungal and anti-inflammatory (Ketoconazole combo),"Burning, redness, peeling skin"
+34,TAB FLUME,150 mg,Fluconazole 150 mg,12.97,10,2.97,22.9,E - Itching & Skin Allergy,Fungal infections,"Headache, nausea, abdominal pain, dizziness"
+,TAB FUNGISET,150 mg,Fluconazole 150 mg,19.5,10,9.5,48.72,E - Itching & Skin Allergy,Fungal infections,"GI upset, headache, rash"
+,TAB FCN 150,150 mg,Fluconazole 150 mg,27.01,10,17.01,62.98,E - Itching & Skin Allergy,Candidiasis and other fungal infections (Fluconazole),"Nausea, dizziness, liver enzyme changes"
+35,TAB OKACET-L,5 mg,Levocetrizine Hydrochloride 5mg,75.86,55,,27.5,E - Itching & Skin Allergy,"Allergic rhinitis, hives (Levocetirizine)","Drowsiness, dry mouth, headache"
+,TAB CETFAST L,5 mg,Levocetrizine Hydrochloride 5mg,62.5,55,,12,E - Itching & Skin Allergy,Allergy relief (Levocetirizine),"Sleepiness, dry mouth, fatigue"
+36,TAB LEVOST M,10 mg,"Montelukast 10mg + Levocetrizine
+hydrochloride 5mg",108.75,,,100,E - Itching & Skin Allergy,Allergic rhinitis and asthma (Levocetirizine + Montelukast),"Drowsiness, GI upset, headache"
+,TAB LEMON,10 mg,"Montelukast 10mg + Levocetrizine
+hydrochloride 5mg",90,,,100,E - Itching & Skin Allergy,Allergy and asthma,"Fatigue, dry mouth, abdominal discomfort"
+,TAB MONTEWOK LC,10 mg,"Montelukast 10mg + Levocetrizine
+hydrochloride 5mg",238.48,,,100,E - Itching & Skin Allergy,Seasonal allergies,"Headache, dizziness, dry mouth"
+37,LIQUID PARAFFIN BOTTLES,Liquid Petrolatum+ Mineral Oil,Liquid Petrolatum+ Mineral Oil,70,,,100,E - Itching & Skin Allergy,"Constipation relief, skin moisturizer","Abdominal cramps, anal irritation, oily stools"
+39,LEESCAB CREAM,0.05,PERMETHRIN CREAM SCABVENT 5%,54.7,,,100,E - Itching & Skin Allergy,Scabies treatment,"Burning, stinging, redness"
+,SOAP SCRABEL,0.05,PERMETHRIN CREAM SCABVENT 5%,60,,,100,E - Itching & Skin Allergy,Anti-scabies and lice treatment soap,"Skin dryness, irritation"
+,SCRABEL  Soap,,PERMETHRIN,,,,,E - Itching & Skin Allergy,Scabicidal and antiparasitic,"Itching, redness"
+40,KLMINE,,Lotion,,,,,E - Itching & Skin Allergy,Antifungal or antiseptic,"Mild burning, stinging, irritation"
+,CLAYTONE,Calamine lotion,Calamine lotion,153,48,105,68.63,E - Itching & Skin Allergy,Dandruff treatment shampoo,"Dry scalp, irritation, hair texture change"
+401,MUPICIP CREAM,0.02,Mupirocin 2% ointment,113.62,,,100,E - Itching & Skin Allergy,Bacterial skin infections,"Stinging, redness, itching"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+43,TAB ALDOBEN,400 mg,Albendazole 400mg,7.88,7,0.88,11.17,F- Gastric & Antacids,Deworming agent,"Nausea, abdominal pain, headache, dizziness"
+,TAB BENDEX,400 mg,Albendazole 400mg,7.88,7,0.88,11.17,F- Gastric & Antacids,Treats parasitic worm infections,"Stomach pain, nausea, dizziness"
+44,TAB RABICER,20 mg,Rabeprozole Sodium 20mg,99,26,73,73.74,F- Gastric & Antacids,"GERD, acid reflux","Headache, diarrhea, flatulence"
+,TAB RABELKEM,20 mg,Rabeprozole 20mg,165,26,139,84.24,F- Gastric & Antacids,"Acidity, peptic ulcers","Nausea, abdominal pain, headache"
+,TAB RABEJOHN,20 mg,Rabeprozole 20mg,90,26,64,71.11,F- Gastric & Antacids,"Gastric ulcers, reflux","Dry mouth, constipation, dizziness"
+46,TAB PANTOSHOOT,40 mg,Pantoprazole 40mg,112.5,85,27.5,24.44,F- Gastric & Antacids,"Acid reflux, GERD","Headache, nausea, abdominal discomfort"
+,TAB PAZOM,40 mg,Pantoprazole 40mg,120,85,35,29.17,F- Gastric & Antacids,Ulcers and acid-related disorders,"Diarrhea, flatulence, dizziness"
+49,TAB ZOVANTA -D,40 mg,Domperidone 30 mg(SR)+ Pentaprazole Sodium 40 mg,174.75,110,64.75,37.05,F- Gastric & Antacids,GERD and nausea,"Dry mouth, dizziness, headache"
+,TAB PENTAWAR DSR,40 mg,Domperidone 30 mg(SR)+ Pentaprazole Sodium 40 mg,125,110,15,12,F- Gastric & Antacids,"GERD, bloating","Headache, abdominal cramps, diarrhea"
+,CAP PENTOWOK DSR,40 mg,Domperidone 30 mg(SR)+ Pentaprazole Sodium 40 mg,165.73,110,55.73,33.63,F- Gastric & Antacids,"Acidity, delayed gastric emptying ","Dizziness, dry mouth, fatigue"
+,TAB PAZOM DSR,40 mg,Domperidone 30 mg(SR)+ Pentaprazole Sodium 40 mg,126.5,110,16.5,13.04,F- Gastric & Antacids,Acid reflux and nausea,"Nausea, headache, constipation"
+53,SYRUP OXECAINE,10 mg,Oxetacaine 10 mg + Aluminium Hydroxide gel 0.291 g + Magnesium Hydroxide 98mg,146.41,42,104.41,71.31,F- Gastric & Antacids,Relief from acidity and ulcers,"Constipation, dry mouth, dizziness"
+,SYRUP MEDICAINE GEL,10 mg,Oxetacaine 10 mg + Aluminium Hydroxide gel 0.291 g + Magnesium Hydroxide 98mg,165,42,123,74.55,F- Gastric & Antacids,"Indigestion, heartburn, acidity (Antacid and mucosal protective agent)","Constipation, chalky taste, nausea"
+55,SYRUP ALKALEE,,Disodium Hydrogen Citrate 1.25gm Syrup,60,,,100,F- Gastric & Antacids,Hyperacidity and bloating relief,"Flatulence, mild diarrhea"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+56,TAB MOXINCLAV CV-625,500 mg,Amoxycillin 500mg + Clavulanic Acid 125mg,112.9,90,22.9,20.28,G- Antibiotics,Bacterial infections (Amoxicillin + Clavulanic acid),"Diarrhea, nausea, skin rash, abdominal pain"
+,TAB AUGUSHEILD 625,500 mg,Amoxycillin 500mg + Clavulanic Acid 125mg,204.86,90,114.86,56.07,G- Antibiotics,Respiratory and urinary infections (Amoxicillin + Clavulanic acid),"Diarrhea, yeast infections, stomach upset"
+58,TAB AZICIP,250 mg,Azithromycin 250mg,78,69,9,11.54,G- Antibiotics,"Throat, skin, and respiratory infections","Nausea, vomiting, diarrhea, abdominal cramps"
+59,TAB AZICIP,500 mg,Azithromycin 500mg,79.19,60,19.19,24.23,G- Antibiotics,"Bacterial infections like sinusitis, pneumonia","Stomach upset, metallic taste, headache"
+60,CEFREDROX DT,200 mg,Cefpodoxime 200mg,48.75,10,38.75,79.49,G- Antibiotics,Pediatric respiratory/urinary infections,"Diarrhea, rash, abdominal discomfort"
+,PODOXIM,200 mg,Cefpodoxime 200mg,157,10,147,93.63,G- Antibiotics,Bacterial infections,"Nausea, diarrhea, headache"
+,NUCEP,200 mg,Cefpodoxime 200mg,150,10,140,93.33,G- Antibiotics,ENT and urinary tract infections,"Flatulence, rash, vomiting"
+61,CEFITAXE DT,200 mg,Cefixime 200mg + Lactic Acid Bacillus 60 Million Spores,126.8,82,44.8,35.33,G- Antibiotics,Pediatric bacterial infections,"Abdominal pain, diarrhea, skin rash"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+66,TAB CHESTON COLD,5 mg,Cetrizine 5mg + Paracetamol 325mg + Phenylephrine 10mg,70.18,28,42.18,60.1,H - Cough & Cold,"Common cold, runny nose, congestion","Drowsiness, dry mouth, dizziness"
+,TAB OKASET COLD,5 mg,Cetrizine 5mg + Paracetamol 325mg + Phenylephrine 10mg,28.22,28,0.22,0.78,H - Cough & Cold,Cold and allergic symptoms relief,"Sleepiness, stomach upset, dry mouth"
+67,TAB DERICIP RETARD 150,115 mg,Etofyline 115mg + Theophyline 35mg,10.45,9,1.45,13.88,H - Cough & Cold,"Bronchitis, respiratory infections","Nausea, diarrhea, loss of appetite"
+69,SYRUP REXCOF BM PLUS,1.25 mg,"Terbtaline 1.25mg+Bromhexine Hcl 2mg
++Guaiphenesin 50mg+Menthol 2.5mg",110,89,21,19.09,H - Cough & Cold,Productive cough (Ambroxol + Guaifenesin + Salbutamol),"Tremor, palpitations, nausea"
+,SYRUP ELDIKOF T,1.25 mg,"Terbtaline 1.25mg+Bromhexine Hcl 2mg
++Guaiphenesin 50mg+Menthol 2.5mg",80,,,100,H - Cough & Cold,Wet cough and chest congestion,"Dry mouth, dizziness, GI upset"
+70,SYRUP AMROX,1.25 mg,"Terbtaline Sulphate 1.25mg +Ambroxol 15mg
++Guaiphenesin 50mg +Menthol 2.5mg",100,85,15,15,H - Cough & Cold,Mucolytic for productive cough (Ambroxol),"Bitter taste, nausea, rash"
+71,SYRUP REXCOF DX,10 mg,"Dextromethorphan Hbr 10 mg+ CPM 2mg
++Phenylephrine Hcl 5mg",141.2,73,68.2,48.3,H - Cough & Cold,Dry cough,"Drowsiness, constipation, blurred vision"
+,SYRUP ELDIKOF - D,10 mg,"Dextromethorphan Hbr 10 mg+ CPM 2mg
++Phenylephrine Hcl 5mg",50,,,100,H - Cough & Cold,Dry cough,"Dizziness, sleepiness, dry mouth"
+72,SYRUP KOFCLEAR-LS,1 mg,Levo-Salbutamol Sulphate 1mg + Ambroxol Hcl 30mg + Guaiphenesin 50mg,110,51,59,53.64,H - Cough & Cold,Bronchodilator for asthma and productive cough ,"Palpitations, tremors, nausea"
+,SYRUP AMROX LS,1 mg,Levo-Salbutamol Sulphate 1mg + Ambroxol Hcl 30mg + Guaiphenesin 50mg,75,51,24,32,H - Cough & Cold,Cough with mucus,"Headache, GI upset, shakiness"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+76,MOBICAM-DT,20 mg,Piroxicam 20 mg,78.32,23,55.32,70.63,I- Painkillers,"Pain, inflammation","Stomach upset, nausea, dizziness"
+,TAB ELPIROM,20 mg,Piroxicam 20 mg,94.5,23,71.5,75.66,I- Painkillers,"Pain, joint stiffness","Heartburn, abdominal pain, rash"
+78,ACECLOFLAM-MR,100 mg,Aceclofenac 100mg + Paracetamol 325mg + Chlorzoxazone 250mg,247,39,208,84.21,I- Painkillers,"Muscle pain, inflammation","Drowsiness, GI discomfort, liver strain"
+,TAB  ACIKEM-MR,100 mg,Aceclofenac 100mg + Paracetamol 325mg + Chlorzoxazone 250mg,96,39,57,59.38,I- Painkillers,Muscular pain,"Nausea, dizziness, drowsiness"
+79,TAB ACECLOFLAM-SP,100 mg,"Aceclofenac 100mg + Paracetamol 325mg
++Serratiopeptidase 10mg",147,37,110,74.83,I- Painkillers,Pain and swelling,"Indigestion, flatulence, rash"
+,TAB ELZEFEN SP,100 mg,"Aceclofenac 100mg + Paracetamol 325mg
++Serratiopeptidase 10mg",123,37,86,69.92,I- Painkillers,Inflammation and injury-related pain,"Nausea, abdominal bloating, liver enzyme changes"
+791,TAB NICIP ASP,100 mg,"Aceclofenac 100mg + Paracetamol 325mg
++Serratiopeptidase 15mg",127.77,37,90.77,71.04,I- Painkillers,Pain relief (Nimesulide + Paracetamol + Serratiopeptidase),"Liver toxicity, stomach upset, rash"
+,TAB ACEMIZ - S,100 mg,"Aceclofenac 100mg + Paracetamol 325mg
++Serratiopeptidase 15mg",139.65,37,102.65,73.51,I- Painkillers,Joint and muscle pain,"Gastric irritation, dizziness"
+80,TAB AXCLOCLIDE PLUS,100 mg,Aceclofenac 100 mg + Paracetamol 325mg,75,25,50,66.67,I- Painkillers,"Anti-inflammatory, pain relief","Gastritis, nausea, allergic reactions"
+,TAB ASEN P,100 mg,Aceclofenac 100 mg + Paracetamol 325mg,25,25,0,0,I- Painkillers,"Fever, mild pain","Abdominal pain, drowsiness"
+,TAB ELZEFAN P,100 mg,Aceclofenac 100 mg + Paracetamol 325mg,71.5,25,46.5,65.03,I- Painkillers,Pain and fever,"GI upset, dizziness, nausea"
+81,TAB FLUMOL,500 mg,Paracetamol 500mg,13,10,3,23.08,I- Painkillers,"Fever, mild to moderate pain","Liver toxicity (if overused), nausea"
+,TAB PARACIP,500 mg,Paracetamol 500mg,10.08,10,0.08,0.79,I- Painkillers,"Fever, body ache","Rash, liver damage (on overdose)"
+81 A,TAB PARACIP,650 mg,Paracetamol 650mg,22.51,18,4.51,20.04,I- Painkillers,"Fever, body ache","Nausea, liver strain on overdose"
+,TAB PARAFAST,650 mg,Paracetamol 650mg,22.4,18,4.4,19.64,I- Painkillers,"Fever, body ache","Fatigue, stomach discomfort"
+,TAB FLUMOL,650 mg,Paracetamol 650mg,17.95,,,100,I- Painkillers,"Fever, body ache","Allergic rash, liver enzyme changes"
+83,TAB ZEFCORT,6 mg,Deflazacort 6mg,104.5,55,49.5,47.37,I- Painkillers,Allergic and inflammatory conditions,"Weight gain, mood changes, increased blood sugar"
+84,TAB REACTIN PLUS,325 mg,Diclofenac Potassium 50 mg+ PARACETAMOL 325 mg,31.46,16,15.46,49.14,I- Painkillers,"Pain, cold, fever","Gastric discomfort, drowsiness"
+,TAB UFEN,325 mg,Diclofenac Sodium 50 mg+ PARACETAMOL 325 mg,60,16,44,73.33,I- Painkillers,"Pain, cold, fever","Indigestion, nausea, stomach ulcer risk"
+86,NACKDOL GEL,0.01,"Diclofenec Sodium 1%,Diclofenec Diethylamine I.P 1.16%",81,81,0,0,I- Painkillers,Local pain relief (Diclofenac + Linseed oil + Methyl Salicylate),"Skin irritation, redness"
+,VOLEE GEL,0.01,"Diclofenec Sodium 1%, Linseed Oil B.P 3%, Methyl Salicylate 10%, Menthal 5%",95,81,14,14.74,I- Painkillers,Joint and muscle pain (Diclofenac gel),"Mild rash, burning sensation"
+87,TAB ULTRA KING,325 mg,Paracetamol 325 mg+ Tramadol Hydrochloride 37.5 MG,241.45,13.2,228.25,94.53,I- Painkillers,Pain management (Multicomponent NSAID formula),"Dizziness, stomach upset, fatigue"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+91,CAP FERRO-XT,100 mg,"Ferrous Ascorbate 100 mg + Folic Acid 1.5 mg
++ Zinc 22.5mg",200,33,167,83.5,J - Vitamins & Digestive,Iron deficiency anemia,"Constipation, dark stools, metallic taste"
+911,TAB FERRICLIDE - XT,100 mg,Ferrous Ascorbate 100 mg + Folic Acid 1.5 mg,85,57,28,32.94,J - Vitamins & Digestive,Iron supplementation in anemia,"Nausea, bloating, constipation"
+,CAP FERRIWOK-XT,100 mg,Ferrous Ascorbate 100 mg + Folic Acid 1.5 mg,240,57,183,76.25,J - Vitamins & Digestive,Treatment of iron deficiency anemia,"Stomach cramps, loss of appetite"
+92,CAP FEROJOHN -XT,100 mg,Ferrous Ascorbate 100 mg(IRON) + Folic Acid + Vitamin B12,203,45,158,77.83,J - Vitamins & Digestive,Iron and folic acid supplement,"GI upset, constipation"
+921,CAP COBARISE CZS,"Folic Acid + Chromium + Zinc + Selenium Pyrodoxine Hcl, Cynacobalamine","Folic Acid + Chromium + Zinc + Selenium Pyrodoxine Hcl, Cynacobalamine",82.5,41,41.5,50.3,J - Vitamins & Digestive,"Vitamin B12, Zinc, and folic acid deficiency","Headache, bitter taste, mild GI upset"
+,CAP COBACTIVE CZS,"Folic Acid + Chromium + Zinc + Selenium Pyrodoxine Hcl, Cynacobalamine","Folic Acid + Chromium + Zinc + Selenium Pyrodoxine Hcl, Cynacobalamine",124.2,41,83.2,66.99,J - Vitamins & Digestive,"General weakness, vitamin deficiencies","Nausea, dizziness"
+,CAP COBANOL L CZA,"Folic Acid + Chromium + Zinc + Selenium Pyrodoxine Hcl, Cynacobalamine","Folic Acid + Chromium + Zinc + Selenium Pyrodoxine Hcl, Cynacobalamine",125.2,41,84.2,67.25,J - Vitamins & Digestive,"Neuropathy, vitamin B complex deficiencies","Abdominal discomfort, allergic reaction"
+93,CAP CALCIQUICK-D3,Cholecalciferol 60000 iu,Cholecalciferol 60000 iu,146.89,46,100.89,68.68,J - Vitamins & Digestive,Calcium and Vitamin D3 supplement,"Constipation, hypercalcemia (in high doses)"
+,TAB ELDECAL D3,Cholecalciferol 60000 iu,Cholecalciferol 60000 iu,130,46,84,64.62,J - Vitamins & Digestive,"Vitamin D3 deficiency, bone health","Nausea, metallic taste, fatigue"
+96,CALCIJOINT,Calcium Carbonate + Magnesium + Zinc + Vitamin D3,Calcium Carbonate + Magnesium + Zinc + Vitamin D3,60,,,100,J - Vitamins & Digestive,Joint and bone support,"GI upset, flatulence"
+,"TAB ELDECAL HD
+FORTE",Calcium Carbonate + Magnesium + Zinc + Vitamin D3,Calcium Carbonate + Magnesium + Zinc + Vitamin D3,144,99,45,31.25,J - Vitamins & Digestive,High-dose Vitamin D3 and calcium for osteoporosis,"Kidney stone risk, constipation"
+,TAB CALCIC PLUS CC,Calcium Carbonate + Magnesium + Zinc + Vitamin D3,Calcium Carbonate,688,99,589,85.61,J - Vitamins & Digestive,Bone strength (Calcium Citrate + Calcitriol + Zinc),"Nausea, bloating, constipation"
+97,LEE-ENZYME,,Digestive Supplement,130,,,100,J - Vitamins & Digestive,Digestive enzyme support,"Bloating, allergic rash, abdominal cramps"
+,SYRUP AROZYME,,Digestive Supplement,65,,,100,J - Vitamins & Digestive,"Indigestion, gas, poor digestion","Mild abdominal pain, rare allergy"
+,SYRUP CADZYME,,Digestive Supplement,485,,,100,J - Vitamins & Digestive,Digestive aid with enzymes and carminatives,"Burping, stomach discomfort"
+98,SYRUPELSIRON/FEFORICH,"Ferric Ammonium Citrate (Iron)+ 
+Cyanocobalamine(B12) + Folic Acid",Ferric Ammonium Citrate (Iron)+Cyanocobalamine(B12) + Folic Acid,165,19,146,88.48,J - Vitamins & Digestive,Iron supplement for anemia,"Teeth staining (liquid), constipation"
+,SYRUP HB UP - INTAS,"Ferric Ammonium Citrate (Iron)+
+Cyanocobalamine(B12) + Folic Acid","Ferric Ammonium Citrate + Cyanocobalamine
++ Folic Acid",91,19,72,79.12,J - Vitamins & Digestive,Hemoglobin booster (Iron + folic acid + vitamins),"Nausea, dark stools"
+100,DHA PLUS POWER,Protein Powder,Protein Powder,350,175,175,50,J - Vitamins & Digestive,Pregnancy nutrition (DHA + multivitamins),"Fishy burps, bloating, nausea"
+101,PROTIJOHN POWDER,,Sugar free Protein Powder,680,668,12,1.76,J - Vitamins & Digestive,Protein supplement for strength & recovery,"Gas, bloating (in lactose-sensitive individuals)"
+,PROSUP D,,Sugar free Protein Powder,,,,,J - Vitamins & Digestive,Nutritional supplement (protein + vitamins),Mild GI discomfort
+102,SYRUP ZINPROVIT,,Vitamins and Lysine,,,,,J - Vitamins & Digestive,Zinc + multivitamin syrup for immunity,"Metallic taste, stomach cramps"
+,SYRUP ZINCOTOP,,Vitamins and Lysine,,,,,J - Vitamins & Digestive,Zinc supplement for immunity support,"Nausea, dry mouth"
+1021,TAB ZINKENVIT,,Vitamins and Lysine,,,,,J - Vitamins & Digestive,Zinc + multivitamin tablet for immune and general health,"Headache, bitter aftertaste"
+104,SYRUP BECOGEN - L,,B Complex with Lysine,,,,,J - Vitamins & Digestive,Appetite and vitamin B complex booster,"Drowsiness, mild bloating"
+,SYRUP VITUSULE - L,,B Complex with Lysine,,,,,J - Vitamins & Digestive,Multivitamin with liver tonic support,"Drowsiness, mild bloating"
+,,,,,,,,J - Vitamins & Digestive,Multivitamin with liver tonic support,"Drowsiness, mild bloating"
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+106,FESTIVE DEE,Oflazcin+ Dexamethasone Sodium Phospate HPMC Drops,Oflazcin+ Dexamethasone Sodium Phospate HPMC Drops,69,65,4,5.8,K - ENT Care,Eye drops,"Irritation in the eyes, itching"
+107,CLEARWAX/WAXCLEAR,Ear wax Dissolvent,Ear wax Dissolvent,88,85,3,3.41,K - ENT Care,Ear wax removal,"Ear irritation, itching, rare burning sensation"
+108,SYNFAST NASAL DROPS,0.5% W/V,Xylometazoline hydrochloride nasal solution IP 0.05% W/V,40,46,,-15,K - ENT Care,Nasal congestion,"Nasal dryness, rebound congestion if overused"
+,"NASOCOM NASAL
+DROPS",0.5% W/V,Xylometazoline hydrochloride nasal solution IP 0.05% W/V,315.7,46,269.7,85.43,K - ENT Care,Nasal steroid drops (Mometasone) for allergic rhinitis,"Nosebleeds, irritation, dryness"
+,DOLOCOLD JUNIOR,0.5% W/V,Xylometazoline hydrochloride nasal solution IP 0.05% W/V,36.7,,,100,K - ENT Care,Pediatric cold relief,"Drowsiness, dry mouth, upset stomach"
+109,VIZFRESH DROPS,Carboxymethly cellulose eye drops,Carboxymethly cellulose eye drops,129.7,95,34.7,26.75,K - ENT Care,Lubricating eye drops (Carboxymethylcellulose or similar),"Temporary blurred vision, stinging, eye irritation"
+110,FESTIVE,Ofloxacin + Benzalkonium Chloride drops,Ofloxacin + Benzalkonium Chloride drops,52,,,100,K - ENT Care,Eyedrops,"Irritation in the eyes, itching"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+112,VOMIOVER SYRUP,2 mg,Ondansetron Hydrochloride 2mg,15,,,100,L - Kids,"Nausea, vomiting (Ondansetron)","Constipation, headache, dizziness"
+,SYRUP ONDION,2 mg,Ondansetron Hydrochloride 2mg,42.35,35,7.35,17.36,L - Kids,"Nausea, vomiting (Ondansetron)","Constipation, headache, dizziness"
+,SYRUP ONDIRON,2 mg,Ondansetron Hydrochloride 2mg,42,35,7,16.67,L - Kids,"Nausea, vomiting (Ondansetron)","Constipation, headache, dizziness"
+,SYRUP ONDITRON,2 mg,Ondansetron Hydrochloride 2mg,42,35,7,16.67,L - Kids,"Nausea, vomiting (Ondansetron)","Constipation, headache, dizziness"
+116,SYRUP CADPAR PLUS,250 mg,Paracetamol 250 mg,39.61,,,100,L - Kids,Fever and pain in children,"Nausea, indigestion, allergic rash"
+,SYRUP PARACIP,250 mg,Paracetamol 250 mg,24.86,,,100,L - Kids,Fever and mild pain,"Liver strain (overdose), nausea"
+,SYRUP PARAWIN DS,250 mg,Paracetamol 250 mg,35,,,100,L - Kids,Pediatric fever management,"GI upset, rash (rare)"
+,SYRUP DOLOMET,250 mg,Paracetamol 250 mg,45,40.52,4.48,9.96,L - Kids,Pain and fever relief,"Stomach discomfort, dizziness"
+116 A,SYRUP DOLOMET,125 mg,Paracetamol 125 mg,21.25,19.8,1.45,6.82,L - Kids,Pain and fever relief,"Stomach discomfort, dizziness"
+117,SYRUP DIALEX COLD,Phenylephrine Hydrochloride and Chlorpheniramine Maleate syrup,Phenylephrine Hydrochloride and Chlorpheniramine Maleate syrup,110.25,57,53.25,48.3,L - Kids,Cold and cough relief in children,"Sleepiness, dry mouth, mild stomach upset"
+,SYRUP RINO,Phenylephrine Hydrochloride and Chlorpheniramine Maleate syrup,Phenylephrine Hydrochloride and Chlorpheniramine Maleate syrup,84,57,27,32.14,L - Kids,"Nasal congestion, cold (Phenylephrine + Chlorpheniramine)","Irritability, sleepiness"
+,NOCOLD,Phenylephrine Hydrochloride and Chlorpheniramine Maleate syrup,Phenylephrine Hydrochloride and Chlorpheniramine Maleate syrup,82.88,57,25.88,31.23,L - Kids,Cold and flu symptoms,"Drowsiness, dizziness"
+118,AUGMED,200 mg,Amoxycillin 200mg + Potassium Clavulanic Acid 28.5 mg Oral Suspension,67.53,49,18.53,27.44,L - Kids,Antibiotic for bacterial infections,"Diarrhea, allergic rash, stomach pain"
+,AMOXYCLAV,200 mg,Amoxycillin 200mg + Potassium Clavulanic Acid 28.5 mg Oral Suspension,67.5,49,18.5,27.41,L - Kids,Broad-spectrum antibiotic,"Diarrhea, yeast infection, GI upset"
+1181,SYRUP ALMOKCE-CLAV,400 mg,Amoxycillin 400mg + Potassium Clavulanic Acid 57 mg Oral Suspension,67.5,,,100,L - Kids,Pediatric antibiotic,"Rash, diarrhea, nausea"
+119,SYRUP LEEBEN,Albendazole Oral Suspensiob I.P.,Albendazole Oral Suspensiob I.P.,20,14,6,30,L - Kids,Cough and cold,"Drowsiness, dry mouth"
+503,SYRUP MICTAL PLUS -DS,125 mg,Paracetamol 125mg +  Mefanamic Acid 50mg,82.3,25,57.3,69.62,L - Kids,"Fever, cold","Sleepiness, stomach upset"
+5031,SYRUP BIOCIL-MPS,250 mg,"Aluminium Hydroxide 250mg + Magnesium 250mg
++ Simethicone 50mg",156.5,42,114.5,73.16,L - Kids,Antacid and gas relief,"Constipation, chalky taste"
+,SYRUP ACIGENE,250 mg,"Aluminium Hydroxide 250mg + Magnesium 250mg
++ Simethicone 50mg",80.3,42,38.3,47.7,L - Kids,Acidity and gas relief,Diarrhea or constipation
+504,ALIBAC SACHETS,Lactic Acid Basillus,Lactic Acid Basillus,30,,,100,L - Kids,Probiotic for gut health and diarrhea management,"Bloating, rare allergic reactions"
+505,ORS SACHETS for KIDS,,Electrobion/ Relyte(ORS),,,,,L - Kids,"Rehydration in diarrhea, vomiting",Very safe; rarely bloating or nausea if overused
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+121,THYROXINOL,50 mcg,Thyroxine 50 mcg,112,66,46,41.07,M- Others,Thyroid hormone replacement in hypothyroidism,"Palpitations, weight loss, insomnia"
+122,THYROXINOL,100 mcg,Thyroxine 100 mcg,159.3,80,79.3,49.78,M- Others,Thyroid hormone replacement in hypothyroidism,"Palpitations, weight loss, insomnia"
+124,TAB LIVIPIL,500 mg,Levetiracetam 500MG,216.48,70,146.48,67.66,M- Others,"Epilepsy, seizure control","Drowsiness, irritability, dizziness"
+,TAB LEVECETAM,500 mg,Levetiracetam 500MG,95.55,70,25.55,26.74,M- Others,Anti-epileptic,"Weakness, mood swings, dizziness"
+,TAB LEVESAM,500 mg,Levetiracetam 500MG,145.5,70,75.5,51.89,M- Others,Epilepsy/seizure prevention,"Sleepiness, behavioral changes"
+126,CAP DOXYFORD LB,Doxycycline + Lactin acid bacillus,Doxycycline + Lactin acid bacillus,108.8,,,100,M- Others,Antibiotic,"Diarrhea, nausea, photosensitivity"
+,CAP DOXYRICH LM,Doxycycline + Lactin acid bacillus,Doxycycline + Lactin acid bacillus,100.15,,,100,M- Others,Antibiotic for bacterial infections,"Gastritis, sun sensitivity, yeast infections"
+127,CAP DOXYLAB,100 mg,Doxycycline Hcl 100mg + Ambroxol Hcl 7.5mg,77.75,70,7.75,9.97,M- Others,Broad-spectrum antibiotic,"Nausea, vomiting, stomach upset"
+128,ORS SACHETS,ORS,ORS,21.5,,,100,M- Others,Rehydration in diarrhea or vomiting,None common; very safe
+135,TAB EPTOZEN,100 mg,Phenytoin Sodium 100 mg,197,185,12,6.09,M- Others,Anticonvulsant,"Drowsiness, gum overgrowth, dizziness"
+136,EEECAD,400 mg,Soft gelatin capsules,70,,,100,M- Others,Possibly an anti-epileptic or anti-inflammatory,Varies — needs confirmation
+,TAB AVION,400 mg,Soft gelatin Vitamin-E capsules,95.5,,,100,M- Others,Vitamin A supplement,"Toxicity in high doses, skin peeling, liver strain"
+,TAB EL VITAMIN,5 mg,Soft gelatin Vitamin-E capsules,95,130,,-36.84,M- Others,Multivitamin supplement,"Nausea, constipation, rarely allergy"
+138,THYROXINOL,25 mcg,Thyroxine 25 mcg,197.77,55,142.77,72.19,M- Others,Thyroid hormone (Thyroxine),"Increased appetite, palpitations"
+139,TAB NFLOX-B,400 mg,Norfloxacin 400mg + Betadax 10mg,53,37,16,30.19,M- Others,Antibiotic (Norfloxacin + Tinidazole) for GI infections,"Nausea, metallic taste, dizziness"
+,TAB NOXITEF,400 mg,Norfloxacin 400mg,77,37,40,51.95,M- Others,Antibiotic (likely Cefixime-based) for bacterial infections,"Diarrhea, rash, headache"
+,TAB NORFLOKEM,400 mg,Norfloxacin 400mg,84,37,47,55.95,M- Others,"Norfloxacin — used for UTI, GI infections","Dizziness, bitter taste, nausea"
+140,TAB FOLIGEM,5 mg,Folic Acid,26,,,100,M- Others,Folinic acid supplement,"Bloating, injection site pain (if injectable)"
+,TAB VITAFOL 5,5 mg,Folic Acid,51.46,35,16.46,31.99,M- Others,Folic acid supplement,Very well tolerated; rarely nausea
+,TAB FOLITAS,5 mg,Folic Acid,50.74,35,15.74,31.02,M- Others,Folic acid supplement (5 mg) for anemia or pregnancy,Rarely GI upset
+141,THYROXINOL,75 mcg,Thyroxine 75 mcg,192,83,109,56.77,M- Others,Thyroid hormone replacement in hypothyroidism,"Palpitations, weight loss, insomnia"
+142,LEE - BIOTIC,Pre Biotic and Pro Biotic,Pre Biotic and Pro Biotic,135,,135,100,M- Others,Probiotic capsule for gut health,"Bloating, flatulence"
+,TAB PREPRODER,1 mg,Folic acid,148.5,,148.5,100,M- Others,Prebiotic + Probiotic combination,"Abdominal discomfort, gas"
+,,,,,,,,,,
+M.ID,Name,Dosage,Formulation,Cost of branded,Cost of generic,Cost difference,,,,
+600,TAB SORBITRATE,5 mg,Isosorbide Dinitrate Tablets,45.83,8.26,37.57,81.98,EMY- EMERGENCY,"Used for angina (chest pain) — contains Isosorbide dinitrate, which relaxes blood vessels and improves blood flow to the heart","Headache, dizziness, low blood pressure, flushing, fainting"
