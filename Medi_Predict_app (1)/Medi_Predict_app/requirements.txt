@@ -1,0 +1,6 @@
+streamlit
+pandas
+pydeck
+streamlit-geolocation
+reportlab
+plotly
