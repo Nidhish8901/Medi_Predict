@@ -4,3 +4,4 @@ pydeck
 streamlit-geolocation
 reportlab
 plotly
+transformers
