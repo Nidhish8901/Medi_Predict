@@ -2,5 +2,6 @@ streamlit
 pandas
 numpy
 plotly
-streamlit-geolocation
-transformers
+scikit-learn
+prophet
+matplotlib
