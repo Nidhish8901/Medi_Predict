@@ -1,7 +1,10 @@
 streamlit
 pandas
 numpy
-plotly>=5.0.0
-scikit-learn
-prophet
+plotly
 matplotlib
+PyPDF2
+wordcloud
+scikit-learn
+transformers
+torch
