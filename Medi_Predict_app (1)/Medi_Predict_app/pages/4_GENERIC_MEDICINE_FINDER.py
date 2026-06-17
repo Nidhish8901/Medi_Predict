@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForCausalLM
+try:
+    from transformers import AutoTokenizer, AutoModelForCausalLM
+except:
+    AutoTokenizer = None
+    AutoModelForCausalLM = None
 import torch
 from datetime import datetime
 import plotly.express as px
